@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sexy Baalavashan</h1>
+<h1 align="center">Hi 👋, I'm Balavashan</h1>
 <h3 align="center">A passionate AI developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balavashan&label=Profile%20views&color=0e75b6&style=flat" alt="balavashan" /> </p>
